@@ -1,0 +1,10 @@
+.navbar {
+    position: fixed;
+    margin-left: 27vw;
+}
+
+a {
+    font-weight: 650;
+    color: black;
+    margin-left: 3vw;
+}
