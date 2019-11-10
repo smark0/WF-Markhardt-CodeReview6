@@ -2,3 +2,19 @@
     padding-top: 60px;
     margin: 0;
 }
+
+header {
+  height: 400px;
+}
+
+.row {
+  padding-top: 20px;
+}
+
+.heading {
+  margin-top: 150px;
+}
+
+h1 {
+  font-weight: 700;
+}

@@ -30,8 +30,8 @@ import { AngularFireDatabaseModule } from 'angularfire2/database';
     BrowserModule,
     AppRoutingModule,
     ReactiveFormsModule,
-    AngularFireModule.initializeApp(environment.firebaseConfig),// we called initializeApp function to provide connection details
-    AngularFireDatabaseModule, // we will import the classes here too
+    AngularFireModule.initializeApp(environment.firebaseConfig),
+    AngularFireDatabaseModule,
     FormsModule
   ],
   providers: [TravelsService],
